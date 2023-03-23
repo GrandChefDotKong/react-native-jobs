@@ -6,7 +6,6 @@ import {
   Nearbyjobs, Popularjobs, ScreenHeaderBtn, Welcome 
 } from "../components";
 
-
 const Home = () => {
 
   const router = useRouter();
